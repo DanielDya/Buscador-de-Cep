@@ -8,7 +8,7 @@ O objetivo do projeto é pesquisar CEP via uma API chamada https://viacep.com.br
 
 ## API utilizada
 
-A API https://viacep.com.br retorna as seguintes informaçoes para um cep exemplo 62823000
+A API https://viacep.com.br retorna as seguintes informaçoes para um cep exemplo 61652062
 
 ```
 // https://viacep.com.br/ws/61652062/json/
