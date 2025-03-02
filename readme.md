@@ -31,16 +31,16 @@ A API https://viacep.com.br retorna as seguintes informaçoes para um cep exempl
 ## Funcionalides
 - [x] Busca de CEP
 - [x] Limpar Dados
-- [ ]Melhorar o Design
-- [ ]Responsividade
+- [ ] Melhorar o Design
+- [ ] Responsividade
 ## Observaçoes
 > [!NOTE]
->Projeto feito na diciplina de web 1 no curso de ADS do IFCE de Jaguaruana
+> Projeto feito na diciplina de web 1 no curso de ADS do IFCE de Jaguaruana
 
 > [!TIP]
 > Não usar hífen na hora de colocar o CEP
 
 > [!IMPORTANT]
->ALguns CEPs podem não conter todas as informações 
+> ALguns CEPs podem não conter todas as informações 
 ## Contatos
 Email: joaodanielbernardin@gmail.com
