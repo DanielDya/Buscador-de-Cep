@@ -32,7 +32,7 @@ A API https://viacep.com.br retorna as seguintes informaçoes para um cep exempl
 - [x] Busca de CEP
 - [x] Limpar Dados
 - [x] Melhorar o Design
-- [] Responsividade
+- [ ] Responsividade
 - [x] Rodapé
 ## Observaçoes
 > [!NOTE]
