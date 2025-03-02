@@ -70,9 +70,24 @@ footer {
 .contact-info {
     margin-bottom: 10px;
 }
+.cat{
+    width: 500px;
+    height: 500px;
+}
+img{
+  max-width: 100px;
+  position: absolute;
+  top: 1%;
+  left: 2%; 
+}
 
 @media screen and (max-width:768px){
 .info{
     font-size: x-large;
 }
+@media screen and (max-width: 600px) {
+    .my-image {
+      max-width: 50%;
+    }
+  }
 }
