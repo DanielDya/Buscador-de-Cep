@@ -31,8 +31,9 @@ A API https://viacep.com.br retorna as seguintes informaçoes para um cep exempl
 ## Funcionalides
 - [x] Busca de CEP
 - [x] Limpar Dados
-- [ ] Melhorar o Design
-- [ ] Responsividade
+- [x] Melhorar o Design
+- [+-]Responsividade
+- [x]Rodapé
 ## Observaçoes
 > [!NOTE]
 > Projeto feito na diciplina de web 1 no curso de ADS do IFCE de Jaguaruana
