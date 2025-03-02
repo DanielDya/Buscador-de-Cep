@@ -4,7 +4,7 @@ O objetivo do projeto é pesquisar CEP via uma API chamada https://viacep.com.br
 
 ## Design do projeto
 
-![Foto do Design do Site](image-1.png)
+![Foto do site](image-1.png)
 
 ## API utilizada
 
